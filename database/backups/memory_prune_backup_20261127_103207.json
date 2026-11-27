@@ -1,0 +1,38 @@
+{
+  "backup_created_at": "2026-11-27T10:32:07.123482",
+  "retention_days": 30,
+  "cutoff_date": "2026-10-28",
+  "pruned_summaries": [
+    {
+      "id": 3,
+      "run_id": "run_ancient_1d5101",
+      "date": "2026-09-01",
+      "total_scraped": 5,
+      "total_filtered": 0,
+      "total_scored": 0,
+      "total_applications": 0,
+      "total_emails_sent": 0,
+      "pending_approvals": 0,
+      "failed_operations": 0,
+      "important_errors": "[]",
+      "completed_actions": "[]",
+      "summary_text": "",
+      "created_at": "2026-11-27 05:02:07"
+    }
+  ],
+  "pruned_cache_entries": [
+    {
+      "cache_key": "dd4d89ba4359f872ceddc4cd68a9d598847eabed07f7ca8ea290d75a3e1cf0de",
+      "api_provider": "snov",
+      "request_hash": "dd4d89ba4359f872ceddc4cd68a9d598847eabed07f7ca8ea290d75a3e1cf0de",
+      "response_data": "{\"emails\": [\"info@test.com\"]}",
+      "expires_at": "2026-11-28T10:32:05.982132",
+      "created_at": "2026-11-27 05:02:05",
+      "endpoint": "snov/domain_search",
+      "request_params": "{\"domain\": \"test_d0260d.com\"}",
+      "status_code": 200,
+      "ttl_seconds": 86400,
+      "is_valid": 0
+    }
+  ]
+}

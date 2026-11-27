@@ -1,0 +1,221 @@
+{
+  "_comment": "Candidate Profile for CareerPilot AI / Autohire.ai. Holds verified candidate information, resume metadata, and dynamic target preferences.",
+  "personal": {
+    "name": "Manoj Kumar Mandal",
+    "email": "manojkumarmandal1111@gmail.com",
+    "phone": "+91-8404970494",
+    "location": "India",
+    "linkedin_url": "https://www.linkedin.com/in/manoj-kumar-59668527a/",
+    "github_url": "https://github.com/manoj333565",
+    "portfolio_url": "",
+    "resume_path": "data/resume.pdf"
+  },
+  "education": {
+    "degree": "B.Tech in Computer Science and Engineering",
+    "college": "Satya Sai Engineering College Balasore, Odisha",
+    "year": "2026",
+    "cgpa": "8.01/10 (CGPA)"
+  },
+  "verified_skills": {
+    "proficient": [
+      "RAG",
+      "Agentic AI",
+      "Vector Databases"
+    ],
+    "intermediate": [
+      "LangChain",
+      "LangGraph",
+      "Hugging Face / Transformers",
+      "FastAPI"
+    ],
+    "learning": [
+      "Docker",
+      "PyTorch",
+      "TensorFlow"
+    ]
+  },
+  "resume_qualifications": {
+    "languages": [
+      "Python",
+      "SQL"
+    ],
+    "libraries_frameworks": [
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit-learn",
+      "OpenCV",
+      "LBPH",
+      "PIL",
+      "Streamlit",
+      "SHAP"
+    ],
+    "machine_learning_ai": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Deep Learning",
+      "NLP",
+      "MLOps",
+      "Random Forest",
+      "Decision Forests",
+      "ANN",
+      "CNNs",
+      "RNN",
+      "LSTMs",
+      "Generative AI",
+      "LLM Fundamentals"
+    ],
+    "math_statistics": [
+      "Statistics",
+      "Linear algebra",
+      "Calculus",
+      "F1-score",
+      "RMSE",
+      "Confusion Matrix"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "SQLite"
+    ],
+    "tools_analytics": [
+      "Power BI",
+      "MS Excel",
+      "Jupyter Notebook",
+      "Git",
+      "GitHub"
+    ],
+    "core_cs": [
+      "Object-Oriented Programming (OOP)",
+      "Data Structures & Algorithms"
+    ]
+  },
+  "experience": [
+    {
+      "role": "Campus Ambassador Intern",
+      "company": "GeeksforGeeks",
+      "period": "June 2024 – June 2025",
+      "description": "Built communication and leadership skills via learner onboarding and event promotion; conducted student outreach to increase participation and promoted coding resources across campus."
+    }
+  ],
+  "projects": [
+    {
+      "name": "EduNexora AI – Intelligent Student Performance Prediction System",
+      "tech_stack": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Machine Learning",
+        "Random Forest",
+        "SHAP",
+        "SQLite",
+        "Streamlit",
+        "Scikit-learn"
+      ],
+      "description": "Achieved 96% accuracy by developing an AI-powered Student Performance Prediction System using Python, Streamlit, Scikit-learn, and Random Forest; automated student performance analysis using role-based dashboard, batch prediction, and prediction history; improved model transparency by integrating SHAP Explainable AI with feature importance and probability-based predictions.",
+      "github_url": "https://github.com/manoj333565/EduNexora_AI-Intelligent-Student-Performance-Prediction-System"
+    },
+    {
+      "name": "Customer Purchase and Shopping Behavior Analysis",
+      "tech_stack": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "PostgreSQL",
+        "Power BI",
+        "Jupyter Notebook"
+      ],
+      "description": "Analyzed 3900 customer purchase records to identify trends in buying behavior, sales channels, and purchase categories; cleaned and preprocessed data for accurate EDA and SQL analysis; built an interactive Power BI dashboard to visualize key trends and business KPIs.",
+      "github_url": "https://github.com/manoj333565/Customer-Purchase-and-Shopping-Behavior-Analysis"
+    },
+    {
+      "name": "AI-Powered Attendance Management System",
+      "tech_stack": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "MySQL",
+        "OpenCV",
+        "LBPH",
+        "PIL"
+      ],
+      "description": "Developed an AI-powered Attendance Management System using Python, OpenCV, LBPH Face Recognition, and MySQL for real-time face recognition and automated attendance; implemented real-time face recognition using OpenCV and LBPH to automatically identify students; built end-to-end platform with student management, dataset training, attendance reporting, and secure database integration.",
+      "github_url": "https://github.com/manoj333565/AI-Powered-Attendance-Management-System"
+    }
+  ],
+  "certifications": [
+    "Oracle Cloud Infrastructure Generative AI Professional certified",
+    "McKinsey.org Forward Program Certificate",
+    "IBM python for Data Science, AI and Development Certified"
+  ],
+  "honors_awards": [
+    "GeeksforGeeks Coding Rank: institute Rank 1 (Top Performer)",
+    "LeetCode Profile: 250+ problems solved",
+    "GeeksForGeeks: Campus Ambassador (June 2024 - June 2025)"
+  ],
+  "target_roles": [
+    "Python Developer",
+    "Data Analyst",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Generative AI Engineer",
+    "AI Engineer",
+    "NLP Engineer",
+    "Data Science Intern",
+    "AI/ML Intern",
+    "Backend Python Developer"
+  ],
+  "target_keywords": [
+    "python",
+    "data analyst",
+    "data scientist",
+    "machine learning",
+    "ai",
+    "generative ai",
+    "llm",
+    "rag",
+    "langchain",
+    "langgraph",
+    "fastapi",
+    "fresher",
+    "intern",
+    "internship",
+    "trainee",
+    "junior",
+    "0-1 year",
+    "entry level"
+  ],
+  "exclude_keywords": [
+    "5+ years",
+    "7+ years",
+    "senior lead",
+    "director",
+    "architect",
+    "lead engineer",
+    "principal engineer",
+    "vp of",
+    "head of",
+    "php developer",
+    "wordpress",
+    "ruby on rails"
+  ],
+  "preferred_locations": [
+    "Remote",
+    "Work from Home",
+    "WFH",
+    "Hybrid",
+    "India",
+    "Bangalore",
+    "Hyderabad",
+    "Pune",
+    "Noida",
+    "Gurgaon",
+    "Mumbai",
+    "Kolkata"
+  ],
+  "matching_threshold": 7.0,
+  "min_salary_lpa": 3.6,
+  "allow_remote": true,
+  "allow_internships": true
+}

@@ -1,0 +1,64 @@
+{
+  "backup_created_at": "2026-11-27T11:02:43.016957",
+  "retention_days": 30,
+  "cutoff_date": "2026-10-28",
+  "pruned_summaries": [
+    {
+      "id": 3,
+      "run_id": "run_ancient_d3477c",
+      "date": "2026-09-01",
+      "total_scraped": 5,
+      "total_filtered": 0,
+      "total_scored": 0,
+      "total_applications": 0,
+      "total_emails_sent": 0,
+      "pending_approvals": 0,
+      "failed_operations": 0,
+      "important_errors": "[]",
+      "completed_actions": "[]",
+      "summary_text": "",
+      "created_at": "2026-11-27 05:32:42"
+    }
+  ],
+  "pruned_cache_entries": [
+    {
+      "cache_key": "391e4f95d33b0222b73b9b69d5cebd937a0405ecf0fa59363a8739f7e2cf4ef3",
+      "api_provider": "apollo",
+      "request_hash": "391e4f95d33b0222b73b9b69d5cebd937a0405ecf0fa59363a8739f7e2cf4ef3",
+      "response_data": "{\"email\": \"contact@expiring.com\"}",
+      "expires_at": "2026-11-27 05:32:40",
+      "created_at": "2026-11-27 05:32:41",
+      "endpoint": "apollo/person_match",
+      "request_params": "{\"company\": \"ExpiringCorp\", \"uid\": \"4d76e6\"}",
+      "status_code": 200,
+      "ttl_seconds": -1,
+      "is_valid": 1
+    },
+    {
+      "cache_key": "b17fabe873f3d06f7423ba9d303bf66ccd61509861122a6c6fc9a698b3c6e979",
+      "api_provider": "snov",
+      "request_hash": "b17fabe873f3d06f7423ba9d303bf66ccd61509861122a6c6fc9a698b3c6e979",
+      "response_data": "{\"emails\": [\"info@test.com\"]}",
+      "expires_at": "2026-11-28 05:32:41",
+      "created_at": "2026-11-27 05:32:41",
+      "endpoint": "snov/domain_search",
+      "request_params": "{\"domain\": \"test_34e048.com\"}",
+      "status_code": 200,
+      "ttl_seconds": 86400,
+      "is_valid": 0
+    },
+    {
+      "cache_key": "cf57bcca3d9c78f0970b75e0c75c9ca12ce913ae676f076412cada796701d5d3",
+      "api_provider": "generic",
+      "request_hash": "cf57bcca3d9c78f0970b75e0c75c9ca12ce913ae676f076412cada796701d5d3",
+      "response_data": "{\"data\": 1}",
+      "expires_at": "2026-11-27 05:32:33",
+      "created_at": "2026-11-27 05:32:43",
+      "endpoint": "endpoint/prune_test",
+      "request_params": "{\"q\": 1}",
+      "status_code": 200,
+      "ttl_seconds": -10,
+      "is_valid": 1
+    }
+  ]
+}
